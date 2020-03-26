@@ -1,5 +1,11 @@
 # Arduino-based-ultrasonic-distance-sensor
-This repo will have the programs used in the project.
+
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/kevin_codes?style=social)](https://twitter.com/kevin_codes)
+![Star this repository](https://img.shields.io/github/stars/kevinam99/Arduino-based-ultrasonic-distance-sensor?style=social)
+
+
+
+This repo has the programs used in the project.
 
 Requirements:
 1. One Arduino Uno board.
